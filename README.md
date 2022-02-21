@@ -1,5 +1,7 @@
 # Product Scrapper V1
 
+python3 app.py
+
 ## localhost:5000/
 
 Empty Homepage
